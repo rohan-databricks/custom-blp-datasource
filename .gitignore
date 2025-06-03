@@ -1,0 +1,6 @@
+*.class
+project/target/config-classes/$3fe724a3c6bc67c7ea95.class
+*.cache
+project/target/streams/_global/csrProject/_global/streams/out
+project/
+target/
