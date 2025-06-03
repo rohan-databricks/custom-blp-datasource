@@ -145,6 +145,6 @@ Each `serviceName` returns data with different schema:
 
 ## 👨‍💻 Maintainer
 
-- Developed by [Your Name or Org]
+- Developed by [Rohan Goel @ Databricks]
 - Inspired by Bloomberg BLPAPI structure
 - Supports integration with Databricks / Spark 3.x
